@@ -24,7 +24,7 @@ It can detect and classify multiple expressions such as *happy, sad, angry*, and
 
 | Category | Tools Used |
 |-----------|-------------|
-| **Programming Languages** | Python, HTML, CSS, JavaScript |
+| **Programming Languages** | Python |
 | **Libraries & Frameworks** | MediaPipe, OpenCV, Scikit-learn, Joblib, Matplotlib |
 | **Hardware Requirement** | Webcam-enabled device |
 | **IDE / Environment** | VS Code, Jupyter Notebook, XAMPP (for web integration) |
