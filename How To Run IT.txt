@@ -1,0 +1,23 @@
+ Step 1: Open Anaconda Prompt
+
+ Step 2: Go to the backend folder and copy the path
+
+ Step 3: Change directory to backend folder
+         cd <paste your backend folder path here>
+
+Step 4: Run backend server
+        python app.py
+Do not close this tab. Open a new Anaconda Prompt tab.
+
+Step 5: In the new Anaconda Prompt, go to frontend folder and copy the path
+
+Step 6: Change directory to frontend folder
+        cd <paste your frontend folder path here>
+
+Step 7: Run frontend server
+       python -m http.server 8000
+
+Step 8: Open your browser and go to
+       http://localhost:8000
+
+Step 9: Allow camera access when prompted
