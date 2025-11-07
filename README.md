@@ -39,7 +39,7 @@ It can detect and classify multiple expressions such as *happy, sad, angry*, and
 
 2. **Model Training**  
    - Random Forest Classifier trained on processed facial and gesture data.  
-   - Models saved using Joblib (`.pkl` format).  
+   - Models saved using Joblib (`.pkl` format) which is converted to csv files later  .  
 
 3. **Real-Time Detection**  
    - Live video feed analyzed using OpenCV.  
