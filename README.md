@@ -47,7 +47,7 @@ It can detect and classify multiple expressions such as *happy, sad, angry*, and
 
 ---
 
-###  Clone the Repository
+## Clone the Repository
 
 ```bash
 git clone https://github.com/shreeshtjagga/Facial-Emotion-and-Hand-Gesture-Detection.git
