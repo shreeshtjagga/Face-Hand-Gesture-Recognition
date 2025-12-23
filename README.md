@@ -51,6 +51,7 @@ python app.py
 # Frontend (open new terminal)
 cd frontend
 python -m http.server 8000
-
+```
 # Open application in web(local host)
 http://localhost:8000
+# Allow camera acess 
