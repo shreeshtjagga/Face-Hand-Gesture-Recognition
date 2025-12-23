@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Face & Hand Gesture Detection</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+
+  <div class="container">
+    <h1>Face & Hand Gesture Detection</h1>
+
+    <video id="webcam" autoplay playsinline width="400" height="300"></video>
+
+    <button id="detect-btn">Detect Gesture & Emotion</button>
+
+    <div id="result">
+      <h2>Detection Result:</h2>
+      <pre id="result-text">Waiting for detection...</pre>
+    </div>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
